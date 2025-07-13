@@ -1,5 +1,4 @@
 # GO Lang short notes
-
 ### Hello World
 ### Values
 ### Variables
